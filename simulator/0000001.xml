@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                        <root>
+                            <sorter>
+                                <SorterName>Simulator</SorterName>
+                                <SorterSerialNumber>1</SorterSerialNumber>
+                                <SorterVariant>Simulator</SorterVariant>
+                            </sorter>
+                            <deposit>
+                                <ShiftId>1</ShiftId>
+                                <BatchId>1</BatchId>
+                                <DepositInBatchId>1</DepositInBatchId>
+                                <DepositStartTimeStamp>2013-11-18 20:10:01</DepositStartTimeStamp>
+                                <DepositEndTimeStamp>2013-11-18 20:10:01</DepositEndTimeStamp>
+                                <DataSortCardNumber>0000001</DataSortCardNumber>
+                                <OperatorName>Разработчик Р.Р.</OperatorName>
+                                <SupervisorName></SupervisorName>
+                                <IndexName></IndexName>
+                                <SortModeName>Тестовая сортировка</SortModeName><SorterAccountingData><CategoryName>Новое значение</CategoryName><ActualCount>100</ActualCount></SorterAccountingData></deposit></root>

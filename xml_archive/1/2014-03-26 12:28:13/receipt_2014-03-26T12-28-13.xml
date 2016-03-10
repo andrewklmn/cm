@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><CONFIRM xmlns="urn:cbr-ru:csm:v1.0" FilesCount="5">
+    <FileTransfers FileName="RECRESULT_2014-03-26T12-28-14_0001.xml" CreateTime="2014-03-26T12:28:14" FileSize="669"/>
+    <FileTransfers FileName="RECRESULT_2014-03-26T12-28-14_0002.xml" CreateTime="2014-03-26T12:28:14" FileSize="665"/>
+    <FileTransfers FileName="RECRESULT_2014-03-26T12-28-14_0003.xml" CreateTime="2014-03-26T12:28:14" FileSize="667"/>
+    <FileTransfers FileName="RECRESULT_2014-03-26T12-28-14_0004.xml" CreateTime="2014-03-26T12:28:14" FileSize="669"/>
+    <FileTransfers FileName="RECRESULT_2014-03-26T12-28-14_0005.xml" CreateTime="2014-03-26T12:28:14" FileSize="666"/>
+</CONFIRM>

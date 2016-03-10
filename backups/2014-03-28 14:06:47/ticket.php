@@ -1,0 +1,1 @@
+<?php $creator="Клименюк А.Ю. login: andrew"; ?>

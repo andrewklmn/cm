@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+				<RECRESULT xmlns="urn:cbr-ru:csm:v1.0" CreateTimeFile="2014-03-25T22:02:57" CSMNumber="152" 
+				CurrIndex="3" CurrYear="1997" CurrNominal="100.00">
+				<BanknotesPack ResultDate="2014-03-25" 
+				PlannedBanknotesCount="1000" 
+				PlannedBanknotesSum="100000" 
+				GoodBanknotesCount="998" 
+				GoodBanknotesSum="99800" 
+				OldBanknotesCount="2" 
+				OldBanknotesSum="200" 
+				DestroyBanknotesCount="0" 
+				DestroyBanknotesSum="0" 
+				DoubtfulBanknotesCount="0" 
+				DoubtfulBanknotesSum="0" 
+				OverflowCount="0" 
+				IncomplitCount="0" 
+				ExaminationCount="0" 
+				PackId="Б/Н"/>
+					</RECRESULT>

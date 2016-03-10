@@ -1,0 +1,1 @@
+cd /var/www/html/service; php -f check_if_backup_needed.php

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TASKRECALC xmlns="urn:cbr-ru:csm:v1.0">
+<Pack PackId="AM510923" CurrIndex="3" CurrYear="1997" CurrNominal="100" PackSum="1000000" Count="10000" Client="ГРКЦ ГУ БАНКА РОССИИ ПО ОМСКОЙ ОБЛ." BIC="777809145" Packer="Иванов А.А." PackDate="2010-02-02"/>
+<Pack PackId="AM510735" CurrIndex="3" CurrYear="1997" CurrNominal="100" PackSum="1000000" Count="10000" Client="ГРКЦ ГУ БАНКА РОССИИ ПО ОМСКОЙ ОБЛ. 2" BIC="777809146" Packer="Иванов А.А." PackDate="2010-02-02"/>
+</TASKRECALC>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><CONFIRM xmlns="urn:cbr-ru:csm:v1.0" FilesCount="2">
+    <FileTransfers FileName="RECRESULT_2014-03-24T13-06-14_0001.xml" CreateTime="2014-03-24T13:06:14" FileSize="668"/>
+    <FileTransfers FileName="RECRESULT_2014-03-24T13-06-14_0002.xml" CreateTime="2014-03-24T13:06:14" FileSize="664"/>
+</CONFIRM>
